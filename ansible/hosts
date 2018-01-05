@@ -42,4 +42,11 @@
 
 ## db-[99:101]-node.example.com
 
+foreman
+icinga2
+jess-foreman
+stre-web1
+es-makina01
+es-makina02
 indus01
+sd-49272
